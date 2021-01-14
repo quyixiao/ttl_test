@@ -7,11 +7,10 @@ import java.util.concurrent.Executors;
 
 public class TppHelper {
 
-    private static ExecutorService pool = Executors.newFixedThreadPool(1);
+    private static ExecutorService pool = Executors.newCachedThreadPool();
 
     public static ExecutorService getPool() {
         return TtlExecutors.getTtlExecutorService(pool);
-
 
     }
 }
