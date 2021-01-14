@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3e46a3e-c4cb-4730-9ded-050762424dba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/test/TppHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/test/TppHelper.java" afterDir="false" />
-    </list>
+    <list default="true" id="f3e46a3e-c4cb-4730-9ded-050762424dba" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,7 +168,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610598725179</updated>
-      <workItem from="1610598727161" duration="2368000" />
+      <workItem from="1610598727161" duration="2724000" />
     </task>
     <servers />
   </component>
