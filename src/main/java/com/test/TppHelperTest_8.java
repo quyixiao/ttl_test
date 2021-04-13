@@ -13,12 +13,9 @@ import java.util.concurrent.Executors;
 public class TppHelperTest_8 {
 
     public static TransmittableThreadLocal<String> inheritableThreadLocal = new TransmittableThreadLocal<>();
-    //public static InheritableThreadLocal<String> inheritableThreadLocal = new InheritableThreadLocal<>();
-
+    // public static InheritableThreadLocal<String> inheritableThreadLocal = new InheritableThreadLocal<>();
 
     private static ExecutorService pool = Executors.newFixedThreadPool(1);
-
-
 
     public static void main(String[] args) {
         for (int i = 0; i < 20; i++) {

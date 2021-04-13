@@ -11,6 +11,5 @@ public class TppHelper {
 
     public static ExecutorService getPool() {
         return TtlExecutors.getTtlExecutorService(pool);
-
     }
 }
